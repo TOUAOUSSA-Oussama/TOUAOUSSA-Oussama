@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FF704&lines=Hey%2C+I'm+TOOSSA.+;A+passionate+full-stack+developer+;and+data+scientist.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FF704&lines=Hey%2C+I'm+TOOSSA.+;A+passionate+Software+Engineer+;and+Data+Scientist .)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="250" src="https://github.com/TOUAOUSSA-Oussama/TOUAOUSSA-Oussama/blob/main/myLogo.png" />
